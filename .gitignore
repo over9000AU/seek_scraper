@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+requirements-scraper.txt
+run_weekly.bat
+SETUP.md
